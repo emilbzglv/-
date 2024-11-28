@@ -1,0 +1,2 @@
+# -
+vienkarš kalkulators 
